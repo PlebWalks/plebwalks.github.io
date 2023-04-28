@@ -1,4 +1,4 @@
-# PlebWalks - Walking towards Hyperbitcoinization
+# PlebWalks - Meandering towards Hyperbitcoinization
 
 Meet plebs. Go on walks. Talk bitcoin & other things.
 
